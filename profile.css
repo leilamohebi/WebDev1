@@ -11,10 +11,10 @@ main h2 {
 header {
     display: flex;
     flex-direction: row;
-    background-color: #a1cc9f;
+    background-color: #a7cdf2;
     padding: 2px 0 2px 2px;}nav,
 main {
-     background-color: #E5EAF5;}
+     background-color: #a7cdf2;}
 footer {
      color: white;
      background-color: #494D5F;}
@@ -26,7 +26,7 @@ nav, main, footer {
      padding-bottom: 10px;}
 p{
      margin: 1px;
-     padding: 1px;}.
+     padding: 0.5px;}.
 
  flex-container{
          display: flex;
@@ -37,3 +37,6 @@ p{
 table, th, td {
         border: 1px solid;
          }
+img {
+border; 5px solid #555;
+}
